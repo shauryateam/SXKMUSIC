@@ -1,7 +1,7 @@
 {
-    "name": "Aest Music",
+    "name": "SHAURYA BOT",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://ih1.redbubble.net/image.827203241.7659/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg",
+    "logo": "https://graph.org/file/49f55e19a1936527a0861.jpg",
     "keywords": [
     "python3",
     "pyrogram"
