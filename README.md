@@ -1,4 +1,4 @@
-<h1>Aest Music Bot - Desc.</h1>
+i<h1>Aest Music Bot - Desc.</h1>
 <h3>About This Bot:</h3>
 
 <p>This is a python based music bot for telegram. I didn't removed any plugins according to myself, Bot Owners Can Remove Any Plugins According to Their Thoughts & Ideas!</p>
@@ -14,3 +14,10 @@
 <code>git clone https://github.com/shauryateam/Newmusic && cd Aest</code>
 
 SUPPORT - [@Life_Codes](https://t.me/Life_codes)
+
+
+
+
+deploy krlo bhaiya
+
+https://dashboard.heroku.com/new?template=https://github.com/shauryateam/SXKMUSIC
